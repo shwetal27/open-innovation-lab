@@ -18,7 +18,7 @@ Websites need words on them! We have a few different pages but they need content
 
 This milestone will be complete when all the different pages contain the words they're supposed to
 
-Milestone: Performance Art Incorporation
+#Milestone: Performance Art Incorporation
 
 Work with Benjamin to create a live performance art work for Mozfest
 
