@@ -14,10 +14,12 @@ code of conduct file
 
 #Important Resources
 README FILE
+
 ROADMAP FILE
 
 #List of Communication Channels:
 github
+
 etherpad
 
 #Your First Bug
@@ -42,4 +44,5 @@ You can create a new issue as "enchancement".
 #Who is involved
 
 Shwetal Shah undertaking the mediation of problems and solutions
+
 Benjamin Crisafulli using performance arts and spoken word to create an open platform to share problems and solutions.
