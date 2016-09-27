@@ -18,9 +18,9 @@ code of conduct file
 ROADMAP FILE
 
 #List of Communication Channels:
-github
+[github] (https://github.com/shwetal27/open-innovation-lab)
 
-etherpad
+[etherpad] (https://pad.okfn.org/p/Open_Innovation_Labs)
 
 #Your First Bug
 
@@ -28,7 +28,7 @@ Please share your ideas and your first comment in our README FILE
 
 #How to Report a Bug
 
-Have you found a Bug or want to propose some changes? please share your idea in our etherpad Channel. Don't have access. Contact Us. shwetal.shah27@gmail.com
+Have you found a Bug or want to propose some changes? please share your idea in our etherpad Channel. Don't have access. [Contact Us] (https://pad.okfn.org/p/Open_Innovation_Labs). shwetal.shah27@gmail.com
 
 #Recognition
 Your name will be displayed against the solutions you propose or the problems you challenge. Future hackathons will that take place to solve those problems will be given your name and honour
