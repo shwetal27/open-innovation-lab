@@ -13,7 +13,7 @@ This project adheres to the Contributor Covenant code of conduct. By participati
 code of conduct file
 
 #Important Resources
-[a link] https://github.com/shwetal27/open-innovation-lab/blob/master/README.md
+[a link] (https://github.com/shwetal27/open-innovation-lab/blob/master/README.md)
 
 ROADMAP FILE
 
