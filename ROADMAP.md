@@ -6,7 +6,7 @@ Our efforts to find solutions to global problems in economy, politics, education
 #What do we need to do?
 This issue is our roadmap. It's a place to start to investigate the myriad of issues that you can contribute to. Check out the different milestones listed below
 
-Please check out our contribution guidelines and code of conduct to help you get started, and the README for an overview if you haven't read it yet!
+Please check out our contribution guidelines and code of conduct to help you get started, and the [README] (https://github.com/shwetal27/open-innovation-lab/blob/master/README.md) for an overview if you haven't read it yet!
 
 #Milestone: End of summer sprint
 
